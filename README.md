@@ -1,5 +1,5 @@
 # Curneu-Assessment
-Repository for Curneu Assessment problems created By:
+Repository for Curneu Assessment problems created by:
 
 | Name            | Sahana S R                          | 
 | :-------------  |:----------------------------------  | 
