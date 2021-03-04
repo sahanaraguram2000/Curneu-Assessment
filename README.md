@@ -2,8 +2,9 @@
 Repository created for Curneu Assessment problems
 Created By:
 
-Name        | Sahana S R
-Department  | MSc Data Science
-College     | Coimbatore Institute of Technology
-Register No.| 1832043
+| Name            | Sahana S R                          |
+| -------------   |:----------------------------------: | 
+| Dept            | MSc. Data Science                   | 
+| College         | Coimbatore Institute of Technology  |   
+| Register Number | 1832043                             |  
 
